@@ -1,0 +1,24 @@
+version: '3'
+services:
+  rabbitMq:
+    image: rabbitmq
+    container_name: rabbitMq_container
+  account:
+    build: ./account-management
+    container_name: account
+  report:
+    build: ./report-management
+    container_name: report
+  tokens:
+    build: ./token-management
+    container_name: tokens
+  payment:
+    build: ./payment-management
+    container_name: payment
+  facade:
+    build: ./dtu-pay-facade
+    container_name: facade
+    ports:
+    - "9000:8080"
+  
+
