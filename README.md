@@ -39,12 +39,12 @@ You can check it on your browser!
 
 
 ### Contributors
-Christopher Sofus Nielsen - s184735 
-Josef Brøndum Schmidt - s205458 
-Máximo Pérez López - s201453 
-Zineb Fadili - s201501 
-David Christian Tams Støvlbæk - s175359 
-Boris Karl Voigt Grunwald - s180954 
-Yousef Aqil Mohsen - s185206 
+Christopher Sofus Nielsen - s184735 \\
+Josef Brøndum Schmidt - s205458 \\
+Máximo Pérez López - s201453 \\
+Zineb Fadili - s201501 \\
+David Christian Tams Støvlbæk - s175359 \\
+Boris Karl Voigt Grunwald - s180954 \\
+Yousef Aqil Mohsen - s185206 \\
 
  
